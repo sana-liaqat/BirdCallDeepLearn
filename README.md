@@ -11,10 +11,10 @@ This project is focused on detecting Capuchinbird calls from audio recordings us
 6. Results
 
 ## Installation
-###Clone the Repository
+### Clone the Repository
 Start by cloning this repository to your local machine and navigate into the project directory.
 
-###Set Up a Virtual Environment
+### Set Up a Virtual Environment
 Create and activate a virtual environment to manage dependencies.
 
 ### Install Dependencies
